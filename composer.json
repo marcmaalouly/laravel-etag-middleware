@@ -1,5 +1,5 @@
 {
-    "name": "matthewbdaly/laravel-etag-middleware",
+    "name": "mmaalouly/laravel-etag-middleware",
     "description": "A Laravel middleware for adding ETags to HTTP requests to improve response times",
     "keywords": [
         "laravel",
